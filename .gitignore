@@ -6,3 +6,4 @@ lib/
 storybook-static/
 .npmrc
 package-lock.json
+main.yml
